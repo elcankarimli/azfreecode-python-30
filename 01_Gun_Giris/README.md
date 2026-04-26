@@ -83,9 +83,10 @@ Böyük layihələr üçün biz **Visual Studio Code** redaktorundan istifadə e
 1. Hər bir məlumat tipinə aid öz nümunəni yaz.
 2. (2, 3) və (10, 8) nöqtələri arasındakı **Evklid məsafəsini** hesablayan kod yaz.
 
+Təbriklər! 1-ci günü uğurla tamamladın! 🎉
 ---
 <p align="center">🧡 <b>Happy Coding!</b> 🧡</p>
 
 ---
 <p align="center">🧡 <b>AzFreeCode - Gələcəyi kodla! </b> 🧡</p>
-Təbriklər! 1-ci günü uğurla tamamladın! 🎉
+
