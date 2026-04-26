@@ -93,5 +93,4 @@ num_float = float(10)   # 10.0
 
 ---
 
-### 🎨 GitHub üçün Dizayn İpucu:
-Bu mətni kopyalayıb `README.md` faylına qoyduqda, `$` işarələri arasındakı riyazi düstur GitHub-da səliqəli **LaTeX** formatında görünəcək. Cədvəllər və kod blokları isə oxunaqlılığı artıracaq.
+
