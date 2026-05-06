@@ -78,7 +78,7 @@ print(A.intersection(B))
 print(A.issubset(B))
 ```
 
-### Səviyyə 3 (Hüquqi Analiz)
+### Səviyyə 3 
 1.  Aşağıdakı yaş siyahısını set-ə çevir: `age = [22, 19, 24, 25, 26, 24, 25, 24]`. Siyahınınmı, yoxsa set-inmi ölçüsü daha böyükdür? (İpucu: Set təkrarları silir).
 2.  **Cümlə Analizi:** "I am a teacher and I love to inspire and teach people."
     *   Bu cümlədə neçə **unikal** söz var?
