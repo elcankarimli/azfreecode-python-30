@@ -17,7 +17,7 @@ Lüğəti fiziki bir lüğət kimi düşün: bir söz (key) və onun mənası (v
 
 ---
 
-## 🛠️ Əsas Əməliyyatlar (Dərsliyin Analizi)
+## 🛠️ Əsas Əməliyyatlar 
 
 ### 1. Yaradılma və Ölçü
 Lüğətlər fiqurlu mötərizə `{}` və ya `dict()` funksiyası ilə yaradılır.
