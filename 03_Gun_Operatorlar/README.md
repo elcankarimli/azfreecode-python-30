@@ -44,9 +44,9 @@ print("Giriş icazəsi:", can_login) # Cavab True olacaq, çünki bir dənə 'or
 
 ---
 
-### 💻 Praktik Tapşırıq (Daha maraqlı versiya)
+### 💻 Praktik Tapşırıq 
 
-Tələbələrə belə bir sual ver:
+
 "Təsəvvür edin ki, bir proqram yazmalısınız. İstifadəçi yaşını girir. Əgər yaşı **18-dən böyükdürsə** VƏ **sürücülük vəsiqəsi varsa**, ekrana 'Maşın sürə bilərsən' yazsın."
 
 Bunu kodla necə yazarıq?
