@@ -7,7 +7,7 @@ Xoş gəldiniz! Bu gün Python-un **"əsas mövuzlardan"** olan Tuples mövzusun
 
 ---
 
-## 🧐 Tuple Nədir? (Hüquqi və Texniki Baxış)
+## 🧐 Tuple Nədir? 
 
 Python-da **Tuple** — sıralanmış, lakin **immutable** (dəyişdirilə bilməz) məlumat kolleksiyasıdır. Bir kiber-mütəxəssis üçün bu, "read-only" (yalnız oxuna bilən) fayl sistemi kimidir.
 
